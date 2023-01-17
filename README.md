@@ -1,3 +1,5 @@
-### YOGA-V2
+[
+](https://www.canva.com/design/DAFXUhA8WWE/BEXm0s_NaUBr178h9tg6Fg/view?utm_content=DAFXUhA8WWE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+# YOGA-V2
 ERC20 TOKEN THAT DIRECTLY CONTRIBUTES TO THE LIQUIDITY PROVISION OF XEN.
 STAKE YOGA-V2 INTO PRANA - AN BEGIN RECEIVING YIELD BASED ON YOU ALLOCATED CONTRIBUTION TO THE POOL
