@@ -6,6 +6,9 @@
 ---
 ### VISION
 
-YOGA is strategically designed to benefit both XEN and YOGA stakers. XEN benefits by receiving Liquidity which aids in the development of XEN by enabling trading between assets. YOGA stakers are rewarded by earning a yield in accordance to thier allocated percentage of the liquidity pool. YOGA is a token that provides a service to XEN and the XEN community. XEN benefits by having an ample amount of liquidity, which directly allows owners of XEN to trade XEN freely. YOGA also enables an opportunity to earn yield for those who wouldn't normally know how to provide liquidity by making it easy and hassle free! 
+YOGA is strategically designed to bring innovation and provide a service that benefits both XEN and YOGA stakers. XEN benefits by receiving an amble amount of Liquidity which aids in the development of XEN by enabling trading between XEN and other assets freely. YOGA enables the opportunity for anyone to earn yield, including those who wouldn't normally know how to provide liquidity by making it easy and hassle free! Buy YOGA, Stake YOGA, Earn Yield Passively.
+YOGAs goal is to be the biggest liquidity provider for XEN on all XEN supported chains while providing a safe and sustainable way to earn passive income while contributing and supporting to the growth of the every growing ever evolving XEN!
+
+### 
 
 
