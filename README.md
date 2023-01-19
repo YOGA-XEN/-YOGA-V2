@@ -11,6 +11,19 @@ YOGA is here to go the distance, our goal is to eventually become the biggest li
 ---
 ### FEATURES
 
-## Safe and Sustainable
+*Safe and Sustainable*
+
+YOGA is taking a different approach to ensure long term sustainability by implementing a strategy that rewards yield without relying on new investors to reward the current investors aka ponzinomics. The sustainability of earning a yield is soely reliant on the trading volume of XEN. We have inadvertantly directed any risk that is associated with providing liquidity away from the YOGA staker. Where as an LP provider has risks associated with providing liquidity such as impermanent loss, YOGA stkers will not be affected by this in any way. The yield rewarded for staking YOGA is directly associated with the amount of YOGA staked and the trading volume of XEN. 
+
+*Decentralization*
+
+Once YOGA is deployed the contract will be immuntable, this means the contract does not allow for any modifications and/or reversals, and there will be no admin keys. YOGA aims to promote the first crypto principles of “self-custody, trust through consensus, transparency, and decentralization. Once YOGA is deployed YOGA will be tradable on the open market forever! 
+
+*Liberty*
+
+YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once YOGA is deployed it will be tradable on the open marktet for everyone! YOGA believes in giving the power to the investor, and allowing the investor to pursue their own interests and preferences freely. YOGA holders will have the option to Sell, Stake, and Unstake their YOGA when they see fit. YOGA stakers will also have the ability to Claim their staking rewards when they choose! The power is in your hands!
+
+---
+### CORE PRINCIPLES
 
 
