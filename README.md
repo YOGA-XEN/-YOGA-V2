@@ -7,7 +7,8 @@ XEN launched on October 8th,2022, since then XEN has become one of the most acti
 ### VISION
 
 YOGA is here for the long term, our goal is to eventually become the biggest liquidity provider for XEN on all XEN supported chains while providing a safe and sustainable way to earn passive income to those who would like to contribute and support to the growth of XEN! YOGA is strategically designed to bring innovation and provide a service that benefits XEN while rewarding YOGA stakers. XEN benefits by receiving an amble amount of Liquidity which aids in the development of XEN by enabling trading between XEN and other assets on the open market. YOGA enables the opportunity for ANYONE to earn yield, including those who "wouldn't normally" know how to provide liquidity by making it easy and hassle free! Buy YOGA, Stake YOGA, Earn Yield Passively! 
-___
+
+---
 ### FEATURES
 
 
