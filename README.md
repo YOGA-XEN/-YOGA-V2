@@ -26,4 +26,9 @@ YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once 
 ---
 ### CORE PRINCIPLES
 
-![CORE VALUES (1)](https://user-images.githubusercontent.com/122698385/213598865-7445baeb-89f1-48a4-90a1-34983326464e.png)
+![CORE VALUES (2)](https://user-images.githubusercontent.com/122698385/213871043-fb3cda89-37a8-4e14-86c8-c7b017c0f6a4.png)
+
+---
+### PROCESS
+
+![Sequence Process (1)](https://user-images.githubusercontent.com/122698385/213890466-e1263428-84ce-4dd4-9b60-add71df0731e.png)
