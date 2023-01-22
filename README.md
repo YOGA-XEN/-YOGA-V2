@@ -29,16 +29,28 @@ YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once 
 ![Sequence Process (1)](https://user-images.githubusercontent.com/122698385/213890466-e1263428-84ce-4dd4-9b60-add71df0731e.png)
 
 ---
+### PRANA
+
+PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin keys. To acquire PRANA one must stake their YOGA. Upon staking YOGA, PRANA will be minted to a 1:1 Ratio of YOGA and the staker will receive PRANA. PRANA will have NO liquidity, Buy, Sell or Transfer Tax. PRANA is similar to a (CD) Certificate of Deposit, that represents the amount of YOGA staked and if one decides they would like their YOGA back, they must submit their PRANA and they will receive their YOGA to the 1:1 Ratio. There is no staking/unstaking fees. PRANA is taxless for the ability of one to gift PRANA, and to encourage the community to build upon PRANA. IMPORTANT NOTE: one must own PRANA to earn yield. 
+
+---
 ### TOKENOMICS
 
 *YOGA* 
 - Total Supply: 1 Billion
-- Buy Tax: 8% (7% `XEN/ETH, XEN/USDC Liquidity`, 1% Development)
+- Buy Tax: 8% (7% XEN/ETH, XEN/USDC Liquidity, 1% Development)
 - Sell Tax: 8% (7% XEN/ETH, XEN/USD Liquidity, 1% Development)
 - Liquidity: 100% of Tokens Locked for 6 Months (180 Days)
-- Contract: Immutable, Open Source
+- Contract: Immutable, Open Source, Trustless, No Admin Keys
 
----
-### PRANA
+*PRANA*
+- Max Total Supply: 1 Billion 
+- Mint Ratio: 1:1 with YOGA
+- Buy Tax: 0%
+- Sell Tax: 0%
+- Liquidity: 0% Provided by the YOGA Team
+- Contract: Immutable, Open Source, Trustless, No Admin Keys
 
-PRANA is an Open Source, Immutable 
+### CHART
+
+[Yoga liquidity prediction.xlsx](https://github.com/YOGA-XEN/-YOGA-V2/files/10475212/Yoga.liquidity.prediction.xlsx)
