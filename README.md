@@ -31,9 +31,14 @@ YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once 
 ---
 ### TOKENOMICS
 
-YOGA 
+*YOGA* 
 - Total Supply: 1 Billion
-- Buy Tax: 8% (7% XEN/ETH, XEN/USDC Liquidity, 1% Development)
+- Buy Tax: 8% (7% `XEN/ETH, XEN/USDC Liquidity, 1% Development)
 - Sell Tax: 8% (7% XEN/ETH, XEN/USD Liquidity, 1% Development)
 - Liquidity: 100% of Tokens Locked for 6 Months (180 Days)
 - Contract: Immutable, Open Source
+
+---
+### PRANA
+
+PRANA is an Open Source, Immutable 
