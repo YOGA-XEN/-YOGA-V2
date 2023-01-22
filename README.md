@@ -24,11 +24,16 @@ Once YOGA is deployed the contract will be immuntable, this means the contract d
 YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once YOGA is deployed it will be tradable on the open marktet for everyone! YOGA believes in giving the power to the investor, and allowing the investor to pursue their own interests and preferences freely. YOGA holders will have the option to Sell, Stake, and Unstake their YOGA when they see fit. YOGA stakers will also have the ability to Claim their staking rewards when they choose! The power is in your hands!
 
 ---
-### CORE PRINCIPLES
-
-![CORE VALUES (2)](https://user-images.githubusercontent.com/122698385/213871043-fb3cda89-37a8-4e14-86c8-c7b017c0f6a4.png)
-
----
 ### PROCESS
 
 ![Sequence Process (1)](https://user-images.githubusercontent.com/122698385/213890466-e1263428-84ce-4dd4-9b60-add71df0731e.png)
+
+---
+### TOKENOMICS
+
+YOGA 
+Total Supply: 1 Billion
+Buy Tax: 8% (7% XEN/ETH, XEN/USDC Liquidity, 1% Development)
+Sell Tax: 8% (7% XEN/ETH, XEN/USD Liquidity, 1% Development)
+Liquidity: 100% of Tokens Locked for 6 Months (180 Days)
+Contract: Immutable, Open Source
