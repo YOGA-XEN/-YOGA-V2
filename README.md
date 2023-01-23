@@ -1,23 +1,23 @@
 ![Version 2](https://user-images.githubusercontent.com/122698385/213548055-5f0a40d5-42d2-4293-896f-d741ad1f385d.png)
 ### INTRODUCTION
 
-XEN launched on October 8th,2022, since then XEN has become one of the most active Ethereum projects. XEN has contributed to the highest amount of ETH burnt to this day! To say the least XEN is a power house of a crypto project! Developers from everywhere have come to build with XEN, from XENFTs to Burning Mechanisms, and the list goes on! XENs vision, the roadmap, and the strong partnerships make it one of the strongest and most promising cryptocurrencies in the market! The YOGA team has recognized the winds of change XEN has brought to the crypto space and have found their place in the body of the every growing, ever evolving XEN! *YOGA* is an ERC20 token that is the first of its kind, a **Decentralized Liquidity Reserve Token** for XEN. YOGA directly contributes to the liquidity provision of XEN on Ethereum (and in the future all XEN supported chains). When YOGA is purchased an allocated percentage of funds will be sent into a pool which provides liquidity for XEN. You will then stake your YOGA into a decentralized contract called PRANA. The more YOGA one has staked in the PRANA contract the greater their allocation becomes in the liquidity pool, thus rewarding them with more rewards. YOGA stakers will earn a yield based upon their percentage of the pool. YOGA provides a way to earn passive income while ensuring XEN has liquidity which enables the XEN token to be traded freely.
+XEN launched on October 8th,2022, since then XEN has become one of the most active Ethereum projects. XEN has contributed to the highest amount of ETH burnt to this day! To say the least XEN is a power house of a crypto project! Developers from everywhere have come to build with XEN, from XENFTs to Burning Mechanisms, and the list goes on! XENs vision, the roadmap, and the strong partnerships make it one of the strongest and most promising cryptocurrencies in the market! The YOGA team has recognized the winds of change XEN has brought to the crypto space and have found their place in the body of the every growing, ever evolving XEN! *YOGA* is an ERC20 token that is the first of its kind, a **Decentralized Liquidity Reserve Token** for XEN. YOGA directly contributes to the liquidity provision of XEN on the Ethereum blockchain (and in the future all XEN supported chains). When YOGA is purchased an allocated percentage of funds will be sent into a pool which provides liquidity for XEN. YOGA holders will then stake their YOGA into a decentralized contract called PRANA. The more YOGA one has staked in the PRANA contract the greater their allocation becomes in the liquidity pool, thus rewarding them with more rewards. YOGA stakers will earn a yield based upon their percentage of the pool. YOGA provides a way to earn a safe and sustainable way to earn passive income while ensuring XEN has liquidity which enables the XEN token to be traded freely on the open market.
 
 ---
 ### VISION
 
-YOGA is here to go the distance, our goal is to eventually become the biggest liquidity provider for XEN on all XEN supported chains while providing a safe and sustainable way to earn passive income. YOGA will be attractive to those who would like to contribute and support to the growth of XEN. By providing a safe and sustainable way to earn passive income YOGA will also attract and onboard many new members in the crypto space! YOGA is strategically designed to bring innovation and provide a service that benefits XEN while rewarding YOGA stakers. XEN benefits by receiving an amble amount of Liquidity which aids in the development of XEN by enabling trading between XEN and other assets on the open market. YOGA enables the opportunity for ANYONE to earn yield, including those who "wouldn't normally" know how to provide liquidity by making it easy and hassle free! Buy YOGA, Stake YOGA, Earn Yield Passively! 
+YOGA is here to go the distance, our goal is to become the largest liquidity provider for XEN on all XEN supported chains while providing a safe and sustainable way to earn passive income. YOGA will be attractive to those who would like to contribute and support to the growth of XEN. By providing a safe and sustainable way to earn passive income YOGA will also attract and onboard many new members in the crypto space! YOGA is strategically designed to bring innovation and provide a service that benefits XEN while rewarding YOGA stakers. XEN benefits by receiving an amble amount of Liquidity which aids in the development of XEN by enabling trading between XEN and other assets on the open market. YOGA enables the opportunity for ANYONE to earn yield, including those who "wouldn't normally" know how to provide liquidity by making it easy and hassle free! Buy YOGA, Stake YOGA, Earn Yield Passively! 
 
 ---
 ### FEATURES
 
 *Safe and Sustainable*
 
-YOGA is taking a different approach to ensure long term sustainability by implementing a strategy that rewards yield without relying on new investors to reward the current investors aka ponzinomics. The sustainability of earning a yield is soely reliant on the trading volume of XEN. We have inadvertantly directed any risk that is associated with providing liquidity away from the YOGA staker. Where as an LP provider has risks associated with providing liquidity such as impermanent loss, YOGA stkers will not be affected by this in any way. The yield rewarded for staking YOGA is directly associated with the amount of YOGA staked and the trading volume of XEN. 
+YOGA is taking a different approach to ensure long term sustainability by implementing a strategy that rewards yield without relying on new investors to reward the current investors aka ponzinomics. The sustainability of earning a yield is soely reliant on the trading volume of XEN. We have inadvertantly directed any risk that is associated with providing liquidity away from the YOGA staker. Where as an LP provider has risks associated with providing liquidity such as impermanent loss, YOGA stakers will not be affected by this in any way. The yield rewarded for staking YOGA is directly associated with the amount of YOGA staked and the trading volume of XEN. 
 
 *Decentralization*
 
-Once YOGA is deployed the contract will be immuntable, this means the contract does not allow for any modifications and/or reversals, and there will be no admin keys. YOGA aims to promote the first crypto principles of “self-custody, trust through consensus, transparency, and decentralization. Once YOGA is deployed YOGA will be tradable on the open market forever! 
+Once YOGA is deployed the contract will be immuntable, this means the contract does not allow for any modifications and/or reversals, and there will be no admin keys. YOGA aims to promote the first crypto principles of “self-custody, trust through consensus, transparency, and decentralization. Once YOGA is deployed YOGA will be tradable on the open market! 
 
 *Liberty*
 
@@ -31,7 +31,7 @@ YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once 
 ---
 ### PRANA
 
-PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin keys. To acquire PRANA one must stake their YOGA. Upon staking YOGA, PRANA will be minted to a 1:1 Ratio of YOGA and the staker will receive PRANA. PRANA will have NO liquidity, Buy, Sell or Transfer Tax. PRANA is similar to a (CD) Certificate of Deposit, that represents the amount of YOGA staked and if one decides they would like their YOGA back, they must submit their PRANA and they will receive their YOGA to the 1:1 Ratio. There is no staking/unstaking fees. PRANA is taxless for the ability of one to gift PRANA, and to encourage the community to build upon PRANA. IMPORTANT NOTE: one must own PRANA to earn yield. 
+PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin keys. To acquire PRANA one must stake their YOGA. Upon staking YOGA, PRANA will be minted to a 1:1 Ratio of YOGA and the staker will receive PRANA. PRANA will have NO liquidity, Buy, Sell or Transfer Tax. PRANA is similar to a (CD) Certificate of Deposit, that represents the amount of YOGA staked and if one decides they would like their YOGA back, they must submit their PRANA and they will receive their YOGA to the 1:1 Ratio. Upon submitting the PRANA in exchange for their YOGA the PRANA is then burned. There is no staking/unstaking fees. PRANA is taxless for the ability of one to gift PRANA, and to encourage the community to build upon PRANA. IMPORTANT NOTE: One must own PRANA to earn yield. 
 
 ---
 ### TOKENOMICS
@@ -48,9 +48,13 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 - Mint Ratio: 1:1 with YOGA
 - Buy Tax: 0%
 - Sell Tax: 0%
-- Liquidity: 0% Provided by the YOGA Team
+- Liquidity: No Liquidity
 - Contract: Immutable, Open Source, Trustless, No Admin Keys
 
-### CHART
+### STAKING
 
-[Yoga liquidity prediction.xlsx](https://github.com/YOGA-XEN/-YOGA-V2/files/10475212/Yoga.liquidity.prediction.xlsx)
+![photo_2023-01-22 22 51 39](https://user-images.githubusercontent.com/122698385/213967995-7039b9f6-0045-4fae-8e0a-a5c88b549858.jpeg)
+
+### MIGRATION
+
+YOGAv1 holders will be able to stake their v1 into the PRANA Contract and begin earning rewards as soon as the PRANA Contract goes live. When YOGA V2 is deployed on 
