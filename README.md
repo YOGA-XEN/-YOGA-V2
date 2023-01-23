@@ -51,10 +51,17 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 - Liquidity: No Liquidity
 - Contract: Immutable, Open Source, Trustless, No Admin Keys
 
+---
 ### STAKING
 
 ![photo_2023-01-22 22 51 39](https://user-images.githubusercontent.com/122698385/213967995-7039b9f6-0045-4fae-8e0a-a5c88b549858.jpeg)
 
+---
 ### MIGRATION
 
-YOGAv1 holders will be able to stake their v1 into the PRANA Contract and begin earning rewards as soon as the PRANA Contract goes live. When YOGA V2 is deployed on 
+YOGAv1 holders will be able to stake their YOGAv1 into the PRANA Contract and begin earning rewards as soon as the PRANA Contract goes live. When YOGAv2 is deployed on 02/10/23 (Febuary 10, 2023), YOGAv1 holders will then need to unstake their staked YOGAv1 and swap it for YOGAv2. There is 0% swap tax. To begin earning rewards again they must stake their YOGAv2 into the PRANA Contract. 
+
+---
+### CORE PRINCIPLES
+
+![CORE VALUES (2)](https://user-images.githubusercontent.com/122698385/213969057-58d2bf02-2f9f-4f8e-85ca-a7053a85bafe.png)
