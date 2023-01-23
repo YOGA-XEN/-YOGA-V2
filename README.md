@@ -26,7 +26,7 @@ YOGA is a firm believer in Liberty and it is one of YOGAs core principles! Once 
 ---
 ### PROCESS
 
-![Sequence Process (1)](https://user-images.githubusercontent.com/122698385/213890466-e1263428-84ce-4dd4-9b60-add71df0731e.png)
+![Sequence Process (2)](https://user-images.githubusercontent.com/122698385/214109728-f0b32c24-d43d-46fc-9bf3-64b53350ef4b.png)
 
 ---
 ### PRANA
@@ -52,8 +52,8 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 - Contract: Immutable, Open Source, Trustless, No Admin Keys
 
 *REWARDS*
-- User Receives: 80% 
-- Liquidity Pool: 15%
+- User Receives: 85% 
+- Liquidity Pool: 10%
 - Development: 5% 
 
 ---
