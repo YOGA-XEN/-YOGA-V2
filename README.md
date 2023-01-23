@@ -70,6 +70,11 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 The 7% Liquidity Pool Daily Rewards is the median amount of Daily Rewards the YOGAv1 Treasury has received for providing XEN/ETH LP. This data is from real tested Liquidity Providing done by the YOGA Team.
 
 ---
+### LIQUIDITY CONTRACT
+
+The liquidity contract is a smart contract that is strategically designed to manage the liquidity of XEN/ETH, XEN/USDC. We have integrated an artificial intelegent bot that will keep the liquidity in the range that will give the most rewards. If there is a massive move in the market in either direction causing the ratio to fall out of range the artificial inteligent bot will automatically rebalance the liquidity, allowing the LP to continue to earn at the maximum rate of rewards. The AI Bot is completely hands-free and battle tested by the YOGA Team. 
+
+---
 ### MIGRATION
 
 YOGAv1 holders will be able to stake their YOGAv1 into the PRANA Contract and begin earning rewards as soon as the PRANA Contract goes live. When YOGAv2 is deployed on 02/10/23 (Febuary 10, 2023), YOGAv1 holders will then need to unstake their staked YOGAv1 and swap it for YOGAv2. There is 0% swap tax. To begin earning rewards again they must stake their YOGAv2 into the PRANA Contract. 
