@@ -67,7 +67,7 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 - LP Daily Rewards: 7%
 - Compounding XEN Rewards: 15% 
 
-The 7% Liquidity Pool Daily Rewards is the Median amount of Daily Rewards over 7 days time providing Liquidity from the YOGAv1 Treasury. This data is from real tested Liquidity Providing done by the YOGA Team.
+The 7% Liquidity Pool Daily Rewards is the median amount of Daily Rewards the YOGAv1 Treasury has received for providing XEN/ETH LP. This data is from real tested Liquidity Providing done by the YOGA Team.
 
 ---
 ### MIGRATION
