@@ -52,7 +52,7 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 - Contract: Immutable, Open Source, Trustless, No Admin Keys
 
 *REWARDS*
-- User Receives: 85% 
+- Yogi Receives: 85% 
 - Liquidity Pool: 10%
 - Development: 5% 
 
