@@ -59,7 +59,7 @@ PRANA is an ERC20 Open Source, Immutable, and Trustless Contract with No Admin k
 ---
 ### STAKING
 
-![photo_2023-01-22 22 51 39](https://user-images.githubusercontent.com/122698385/213967995-7039b9f6-0045-4fae-8e0a-a5c88b549858.jpeg)
+![Image4](https://user-images.githubusercontent.com/122698385/214334019-43f44460-188e-4aa7-8ab4-f1c43853c2d9.png)
 
 *Chart Data*
 - Length: 180 Days
