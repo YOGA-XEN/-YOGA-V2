@@ -17,7 +17,7 @@ YOGA is taking a different approach to ensure long term sustainability by implem
 
 *Decentralization*
 
-Once YOGA is deployed the contract will be immuntable, this means the contract does not allow for any modifications and/or reversals, and there will be no admin keys. YOGA aims to promote the first crypto principles of “self-custody, trust through consensus, transparency, and decentralization. Once YOGA is deployed YOGA will be tradable on the open market! 
+Once YOGA is deployed the contract will be immutable, this means the contract does not allow for any modifications and/or reversals, and there will be no admin keys. YOGA aims to promote the first crypto principles of “self-custody, trust through consensus, transparency, and decentralization. Once YOGA is deployed YOGA will be tradable on the open market! 
 
 *Liberty*
 
