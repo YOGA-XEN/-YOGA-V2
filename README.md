@@ -83,3 +83,11 @@ YOGAv1 holders will be able to stake their YOGAv1 into the PRANA Contract and be
 ### CORE PRINCIPLES
 
 ![CORE VALUES (2)](https://user-images.githubusercontent.com/122698385/213969057-58d2bf02-2f9f-4f8e-85ca-a7053a85bafe.png)
+
+---
+### SOCIALS
+
+[Website](https://yogatoken.xyz)
+[Telegram](https://t.me/Yoga_Xen)
+[Twitter](https://twitter.com/Yoga_Xen)
+[Linktree](https://linktr.ee/Yoga_Xen)
